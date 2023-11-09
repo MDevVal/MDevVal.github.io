@@ -6,7 +6,11 @@ body {
 	color: #444;
 	padding: 0 10px;
 }
-img {
+.portrait {
+	text-align: center;
+}
+
+.portrait img {
 	border-radius: 50%;
-	width: 100%;
+	width: 75%;
 }
